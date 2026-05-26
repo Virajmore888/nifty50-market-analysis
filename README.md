@@ -1,14 +1,29 @@
+<div align="center">
+
 # 📈 Nifty 50 - Market Performance & Trend Analysis
 
 ### *522 weekly data points. 10 years of market cycles. 6 visualizations that decode India's benchmark index.*
 
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-1.3+-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+---
+
+<!-- Tech Stack -->
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1.3+-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.21+-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4+-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.11+-4c72b0?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-1.7+-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+<!-- Links -->
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/vitajmore88/nifty-50-market-analysis-2016-2026/notebook)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20More-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-uttam-more-a24a80391)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
+---
+
 **[🚀 Live Kaggle Notebook](https://www.kaggle.com/code/vitajmore88/nifty-50-market-analysis-2016-2026/notebook) · [📦 Kaggle Output](https://www.kaggle.com/code/vitajmore88/nifty-50-market-analysis-2016-2026/output) · [📊 Presentation](https://github.com/Virajmore888/nifty50-market-analysis/blob/916014f016cc4375aeeec69b1c7bdbe95cb740bf/Nifty50_Analysis_Presentation.pdf) · [📝 Full Report](https://github.com/Virajmore888/nifty50-market-analysis/blob/6745fc539d8c82019a5210e6094d38dd10eb520c/Nifty50_Analysis_Report.pdf)**
+
+</div>
 
 ---
 
@@ -300,6 +315,10 @@ This project is intended for **educational and research purposes only** and does
 
 ---
 
+<div align="center">
+
 **Built with ❤️ on Android · Pydroid3/Termux + Acode · Zero Cloud Cost**
 
 *If this project added value, consider leaving a ⭐ on the repo - it helps others find it too.*
+
+</div>
