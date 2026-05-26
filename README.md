@@ -7,7 +7,7 @@
 ---
 
 <!-- Tech Stack -->
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10%20|%203.11%20|%203.12%20|%203.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-1.3+-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-1.21+-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4+-11557c?style=for-the-badge&logo=python&logoColor=white)
@@ -15,13 +15,13 @@
 ![SciPy](https://img.shields.io/badge/SciPy-1.7+-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 <!-- Links -->
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/vitajmore88/nifty-50-market-analysis-2016-2026/notebook)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/virajmore111/nifty-50-market-analysis-2016-2026/notebook)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20More-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-uttam-more-a24a80391)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
 ---
 
-**[🚀 Live Kaggle Notebook](https://www.kaggle.com/code/vitajmore88/nifty-50-market-analysis-2016-2026/notebook) · [📦 Kaggle Output](https://www.kaggle.com/code/vitajmore88/nifty-50-market-analysis-2016-2026/output) · [📊 Presentation](https://github.com/Virajmore888/nifty50-market-analysis/blob/916014f016cc4375aeeec69b1c7bdbe95cb740bf/Nifty50_Analysis_Presentation.pdf) · [📝 Full Report](https://github.com/Virajmore888/nifty50-market-analysis/blob/6745fc539d8c82019a5210e6094d38dd10eb520c/Nifty50_Analysis_Report.pdf)**
+**[🚀 Live Kaggle Notebook](https://www.kaggle.com/code/virajmore111/nifty-50-market-analysis-2016-2026/notebook) · [📦 Kaggle Output](https://www.kaggle.com/code/virajmore111/nifty-50-market-analysis-2016-2026/output) · [📊 Presentation](https://github.com/Virajmore888/nifty50-market-analysis/blob/916014f016cc4375aeeec69b1c7bdbe95cb740bf/Nifty50_Analysis_Presentation.pdf) · [📝 Full Report](https://github.com/Virajmore888/nifty50-market-analysis/blob/6745fc539d8c82019a5210e6094d38dd10eb520c/Nifty50_Analysis_Report.pdf)**
 
 </div>
 
@@ -200,7 +200,7 @@ Engineered under **extreme resource constraints** - developed and executed entir
 ## 🚀 Run This Project Locally
 
 ### Prerequisites
-- Python 3.10+
+- Python 3.10–3.13
 - pip
 - Internet connection (for yfinance API)
 
@@ -225,7 +225,7 @@ python Nifty50_Analysis.py
 ```bash
 jupyter notebook nifty-50-market-analysis-2016-2026.ipynb
 ```
-📓 [View Kaggle Notebook](https://www.kaggle.com/code/vitajmore88/nifty-50-market-analysis-2016-2026/notebook) · [View GitHub Notebook](https://github.com/Virajmore888/nifty50-market-analysis/blob/f9ffef7d8f86997704464122bb464442b62cd85a/nifty-50-market-analysis-2016-2026.ipynb)
+📓 [View Kaggle Notebook](https://www.kaggle.com/code/virajmore111/nifty-50-market-analysis-2016-2026/notebook) · [View GitHub Notebook](https://github.com/Virajmore888/nifty50-market-analysis/blob/f9ffef7d8f86997704464122bb464442b62cd85a/nifty-50-market-analysis-2016-2026.ipynb)
 
 ### 📱 Mobile Setup (Termux / Pydroid3)
 ```bash
@@ -289,11 +289,11 @@ nifty50-market-analysis/
 ## 🤝 Connect & Contribute
 
 - 🔗 **LinkedIn:** [Viraj More](https://www.linkedin.com/in/viraj-uttam-more-a24a80391)
-- 📓 **Kaggle:** [View Full Notebook](https://www.kaggle.com/code/vitajmore88/nifty-50-market-analysis-2016-2026/notebook)
+- 📓 **Kaggle:** [View Full Notebook](https://www.kaggle.com/code/virajmore111/nifty-50-market-analysis-2016-2026/notebook)
 - 💻 **GitHub:** [nifty50-market-analysis](https://github.com/Virajmore888/nifty50-market-analysis)
 
 Found something to improve? Open an **Issue** or submit a **Pull Request** - contributions are welcome!
-Read the **[Contributing Guide](https://github.com/Virajmore888/nifty50-market-analysis/blob/1fff7610b6f68f3875fedadca0ed4ca459aa32c7/CONTRIBUTING.md)** before submitting.
+Read the **[Contributing Guide](https://github.com/Virajmore888/nifty50-market-analysis/blob/1b93b9da3e01eb18bb95e975905e8b383cb4ec97/CONTRIBUTING.md)** before submitting.
 
 ---
 
