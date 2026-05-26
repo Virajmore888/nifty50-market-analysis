@@ -198,4 +198,4 @@ Environment: Python 3.11, yfinance 0.2.x, Windows 11
 
 *Prepared by Viraj More | virajmore.data888@gmail.com | May 2026*
 
-<p align="center">Questions? Reach out on <a href="https://www.linkedin.com/in/viraj-uttam-more-a24a80391">LinkedIn</a> | <a href="https://www.kaggle.com/virajmore88">Kaggle</a></p>
+<p align="center">Questions? Reach out on <a href="https://www.linkedin.com/in/viraj-uttam-more-a24a80391">LinkedIn</a> | <a href="https://www.kaggle.com/virajmore111">Kaggle</a></p>
